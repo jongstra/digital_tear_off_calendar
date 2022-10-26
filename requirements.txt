@@ -1,0 +1,9 @@
+pytz
+geocoder
+timezonefinder
+meteostat
+Pillow
+requests
+beautifulsoup4
+replicate
+notebook
